@@ -80,11 +80,5 @@ const draw = () => {
   }
 };
 
-// createGridSmall();
-// createGridBig();
-// createGridMedium();
-
 chooseSize();
-
 reset();
-// rules();
